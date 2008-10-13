@@ -1,0 +1,6 @@
+libdivsufsort を使った Suffix Array モジュール。構築が高速
+
+TODO
+
+- 1文字で検索したときバグってるような...
+- テスト

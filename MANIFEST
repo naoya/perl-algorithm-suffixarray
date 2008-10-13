@@ -1,0 +1,6 @@
+Changes
+Makefile.PL
+MANIFEST
+README
+t/Algorithm-SuffixArray.t
+lib/Algorithm/SuffixArray.pm

@@ -1,0 +1,6 @@
+Revision history for Perl extension Algorithm::SuffixArray.
+
+0.01  Mon Oct 13 22:45:47 2008
+	- original version; created by h2xs 1.23 with options
+		-AX -n Algorithm::SuffixArray
+
